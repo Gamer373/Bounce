@@ -22,7 +22,7 @@ function setup() {
 
   }
 
-  var superbal = new SuperBal(100, 100, 10, 10);
+  var superbal = new SuperBal(400, 300, 10, 10);
   ballen.push(superbal);
 
 

@@ -27,7 +27,7 @@ class Bal {
   
     // toont de bal
     show() {
-      fill(255, 0, 0);
+      fill(0, 255, 0);
       ellipse(this.x, this.y, 50, 50);
     }
   }

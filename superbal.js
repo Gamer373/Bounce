@@ -1,6 +1,6 @@
-class SuperBal extends Bal{
+class SuperBal extends Bal {
     Show() {
-        fill(random(0, 255), random(0, 255), random(0, 255));
+        fill(255, 255, 255);
         ellipse(this.x, this.y, 50, 50);
     }
 
